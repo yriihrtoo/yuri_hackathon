@@ -7,4 +7,4 @@ Bot discord yang bisa memberi tahu jenis tanaman yang cocok di musim tertentu da
 bahan projek yang aku gunakan:
 * Install library: Discord
 * Tools: Visual Studio code, Discord
-* Materi: jenis musim tanam, jenis-jenis tanaman, dan cara merawatnya
+* Materi: jenis musim tanam(di indonesia), jenis-jenis tanaman, dan cara merawatnya
