@@ -1,7 +1,7 @@
 # yuri_hackathon
 
 ## IDE PROJEK: BOT HABITAT TANAMAN
-Bot discord yang bisa merekomendasikan tanaman yang cocok sesuai musim dan fungsi tanaman
+Bot discord yang bisa merekomendasikan tanaman penyerap polusi udara yang cocok sesuai musim 
 
 ## Bahan Projek (bot discord tanpa AI)
 bahan projek yang aku gunakan:
